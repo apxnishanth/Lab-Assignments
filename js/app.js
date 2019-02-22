@@ -60,7 +60,6 @@ for (var j = 0; j <= 6; j++){
   }
 }
 
-
 var favoriteMoviesArray = ['Usual Suspects','The Dark Knght','The Shining','The Wailing','Avatar'];
 
 var flag = false;
